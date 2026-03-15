@@ -60,4 +60,4 @@ El dataset fue **simulado** con 150 registros de estudiantes universitarios de 1
 
 ---
 *Proyecto realizado como parte del Módulo 6 de Inferencia Estadística – Alkemy*
-Mcglory Tovar
+- Elaborado por: Mcglory Tovar
